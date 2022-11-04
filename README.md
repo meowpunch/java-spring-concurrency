@@ -1,2 +1,2 @@
 # java-spring-concurrency
-practice concurrency on spring framework with java
+from zero to project loom
